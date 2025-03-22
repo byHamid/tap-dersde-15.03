@@ -1,0 +1,5 @@
+@media  screen , (max-height: 600) {
+    body{
+      font-size: 15px;
+    }  
+  }
